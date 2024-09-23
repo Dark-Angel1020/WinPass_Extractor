@@ -40,5 +40,3 @@ This script is intended for educational purposes and testing only. Use it respon
 ## License
 
 [MIT](https://github.com/Dark-Angel1020/Password_Extractor/blob/main/LICENSE)
-```
-
