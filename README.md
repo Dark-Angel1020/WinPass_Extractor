@@ -3,6 +3,9 @@
 
 A Python script that enables users to extract saved passwords from their PC.
 
+# Requirements
+* Python 3.x
+
 ## Installation
 
 ```bash
