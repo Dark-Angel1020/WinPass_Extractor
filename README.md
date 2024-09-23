@@ -39,7 +39,6 @@ This script is intended for educational purposes and testing only. Use it respon
 
 ## License
 
-[MIT]([https://choosealicense.com/licenses/mit/](https://github.com/Dark-Angel1020/Password_Extractor/blob/main/LICENSE))
+[MIT](https://github.com/Dark-Angel1020/Password_Extractor/blob/main/LICENSE)
 ```
 
-Feel free to copy and paste this into your README file! Let me know if you need any further modifications.
