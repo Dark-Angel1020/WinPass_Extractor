@@ -20,7 +20,7 @@ A powerful Python script that allows users to retrieve saved passwords from thei
 ## ⚙️ Installation  
 
 ```bash
-git clone https://github.com/Dark-Angel1020/Password_Extractor.git
+git clone https://github.com/Dark-Angel1020/WinPass_Extractor.git
 cd Password_Extractor
 ```
 
